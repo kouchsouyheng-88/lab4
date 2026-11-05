@@ -4,8 +4,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-
-
 public class exercise3 {
 
 	public static void main(String[] args) {
@@ -45,9 +43,7 @@ public class exercise3 {
 		{
 			e.printStackTrace();
 		}
-		sc.close();
-		
-
+		sc.close();		
 	}
 
 }

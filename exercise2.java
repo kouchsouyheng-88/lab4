@@ -77,8 +77,8 @@ public class exercise2 {
 					min = num;
 				}
 			}
-			System.out.println(max);
-			System.out.println(min);
+			System.out.println("The maximum number is " + max);
+			System.out.println("The minimum number is " + min);
 
 		}
 				
